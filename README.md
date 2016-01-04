@@ -1,2 +1,2 @@
 # cmsi282
-everything algorithms is here
+Repository for algorithms
